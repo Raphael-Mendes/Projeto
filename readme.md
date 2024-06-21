@@ -19,3 +19,5 @@ Clapping                R   16
 Folding Clothes         S   17
 
 amostragem 20hz (50ms), logo 10s = 200 dados.
+20 dados por segundo.
+1s
